@@ -1,0 +1,928 @@
+canonical_identifier: bkk:krp/KR6v0426/v1
+canonical_location: https://kanripo.org/bkk/KR6v0426/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 陰騭文圖
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B28/B28n0158.xml
+    old_id: B28n0158
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0426_001.yaml, hash: 'sha256:783189c7ae606747f24236152a185d92aa8e43fb674a5910e01faeadfc6ee8ad'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0426_001.markers.yaml, hash: 'sha256:9fdcd8f3fcc4260f9dffd4a2cec0ed00decd7ed9c45640683e257bfeaa9260c4'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 25973
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 文昌帝君陰騭文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-2
+    span:
+    - body
+    - 605
+    - 605
+  label: 帝君曰吾一十七世為士大夫身
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-3
+    span:
+    - body
+    - 1141
+    - 1141
+  label: 未甞虐民酷吏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-4
+    span:
+    - body
+    - 1640
+    - 1640
+  label: 救人之難
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-5
+    span:
+    - body
+    - 1848
+    - 1848
+  label: 濟人之急
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-6
+    span:
+    - body
+    - 1943
+    - 1943
+  label: 憫人之孤
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-7
+    span:
+    - body
+    - 2063
+    - 2063
+  label: 容人之過
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-8
+    span:
+    - body
+    - 2279
+    - 2279
+  label: 廣行陰隲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-9
+    span:
+    - body
+    - 2435
+    - 2435
+  label: 上格蒼穹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-10
+    span:
+    - body
+    - 2524
+    - 2524
+  label: 人能如我存心天必錫汝以福
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-11
+    span:
+    - body
+    - 2795
+    - 2795
+  label: 于是訓於人曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-12
+    span:
+    - body
+    - 2994
+    - 2994
+  label: 昔于公治獄大興駟馬之門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-13
+    span:
+    - body
+    - 3926
+    - 3926
+  label: 竇氏濟人高折五枝之桂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-14
+    span:
+    - body
+    - 4398
+    - 4398
+  label: 救蟻中󷝟元之選
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-15
+    span:
+    - body
+    - 4565
+    - 4565
+  label: 埋蛇享宰相之榮
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-16
+    span:
+    - body
+    - 4831
+    - 4831
+  label: 欲廣福田湏憑心地
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-17
+    span:
+    - body
+    - 5126
+    - 5126
+  label: 行時時之方便
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-18
+    span:
+    - body
+    - 5433
+    - 5433
+  label: 作種種之陰功
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-19
+    span:
+    - body
+    - 5882
+    - 5882
+  label: 利物
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-20
+    span:
+    - body
+    - 6128
+    - 6128
+  label: 利人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-21
+    span:
+    - body
+    - 6320
+    - 6320
+  label: 脩善
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-22
+    span:
+    - body
+    - 6402
+    - 6402
+  label: 脩福
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-23
+    span:
+    - body
+    - 6592
+    - 6592
+  label: 正直代天行化
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-24
+    span:
+    - body
+    - 6796
+    - 6796
+  label: 慈祥為國救民
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-25
+    span:
+    - body
+    - 7154
+    - 7154
+  label: 忠主
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-26
+    span:
+    - body
+    - 7420
+    - 7420
+  label: 孝親
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-27
+    span:
+    - body
+    - 8111
+    - 8111
+  label: 敬兄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-28
+    span:
+    - body
+    - 8312
+    - 8312
+  label: 信友
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-29
+    span:
+    - body
+    - 8510
+    - 8510
+  label: 盛奉真朝斗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-30
+    span:
+    - body
+    - 9569
+    - 9569
+  label: 或拜佛念經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-31
+    span:
+    - body
+    - 9723
+    - 9723
+  label: 報荅四恩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-32
+    span:
+    - body
+    - 9907
+    - 9907
+  label: 廣行三教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-33
+    span:
+    - body
+    - 10069
+    - 10069
+  label: 濟急如濟涸轍之魚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-34
+    span:
+    - body
+    - 10337
+    - 10337
+  label: 救危如救密羅之雀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-35
+    span:
+    - body
+    - 10647
+    - 10647
+  label: 矜孤
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-36
+    span:
+    - body
+    - 10867
+    - 10867
+  label: 恤寡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-37
+    span:
+    - body
+    - 11089
+    - 11089
+  label: 敬老
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-38
+    span:
+    - body
+    - 11262
+    - 11262
+  label: 憐貧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-39
+    span:
+    - body
+    - 11435
+    - 11435
+  label: 措衣食周道路之饑寒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-40
+    span:
+    - body
+    - 11806
+    - 11806
+  label: 施棺椁免屍骸之暴露
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-41
+    span:
+    - body
+    - 11948
+    - 11948
+  label: 家富提携親戚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-42
+    span:
+    - body
+    - 12136
+    - 12136
+  label: 嵗饑賑濟隣朋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-43
+    span:
+    - body
+    - 12326
+    - 12326
+  label: 斗秤湏要公平不可輕出重入
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-44
+    span:
+    - body
+    - 12597
+    - 12597
+  label: 奴僕待之寬恕豈宜備責苛求
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-45
+    span:
+    - body
+    - 12822
+    - 12822
+  label: 印造經文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-46
+    span:
+    - body
+    - 13020
+    - 13020
+  label: 創脩寺院
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-47
+    span:
+    - body
+    - 13509
+    - 13509
+  label: 捨藥材以拯疾苦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-48
+    span:
+    - body
+    - 13724
+    - 13724
+  label: 施茶水以解渴煩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-49
+    span:
+    - body
+    - 13927
+    - 13927
+  label: 或買物而放生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-50
+    span:
+    - body
+    - 14886
+    - 14886
+  label: 或持齋而戒殺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-51
+    span:
+    - body
+    - 15716
+    - 15716
+  label: 舉𡵯常看蟲蟻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-52
+    span:
+    - body
+    - 15868
+    - 15868
+  label: 禁火莫燒山林
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-53
+    span:
+    - body
+    - 16024
+    - 16024
+  label: 點夜燈以照人行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-54
+    span:
+    - body
+    - 16210
+    - 16210
+  label: 造河船以濟人渡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-55
+    span:
+    - body
+    - 16387
+    - 16387
+  label: 勿登山而網禽鳥
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-56
+    span:
+    - body
+    - 16492
+    - 16492
+  label: 勿臨水而毒魚蝦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-57
+    span:
+    - body
+    - 16620
+    - 16620
+  label: 勿宰耕牛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-58
+    span:
+    - body
+    - 17243
+    - 17243
+  label: 勿棄字紙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-59
+    span:
+    - body
+    - 18169
+    - 18169
+  label: 勿謀人之財產
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-60
+    span:
+    - body
+    - 18387
+    - 18387
+  label: 勿妬人之技能
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-61
+    span:
+    - body
+    - 18511
+    - 18511
+  label: 勿淫人之妻女
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-62
+    span:
+    - body
+    - 19659
+    - 19659
+  label: 勿唆人之爭訟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-63
+    span:
+    - body
+    - 19839
+    - 19839
+  label: 勿壞人之名利
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-64
+    span:
+    - body
+    - 19998
+    - 19998
+  label: 勿破人之婚姻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-65
+    span:
+    - body
+    - 20227
+    - 20227
+  label: 勿因私讐使人兄弟不和
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-66
+    span:
+    - body
+    - 20422
+    - 20422
+  label: 勿因小利使人父子不睦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-67
+    span:
+    - body
+    - 20673
+    - 20673
+  label: 勿恃權勢而辱善良
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-68
+    span:
+    - body
+    - 20827
+    - 20827
+  label: 勿恃富豪而欺窮困
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-69
+    span:
+    - body
+    - 21052
+    - 21052
+  label: 善人則親近之助德行於身心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-70
+    span:
+    - body
+    - 21188
+    - 21188
+  label: 惡人則遠避之杜災殃于眉󸔍
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-71
+    span:
+    - body
+    - 21394
+    - 21394
+  label: 常湏隱惡揚善
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-72
+    span:
+    - body
+    - 21557
+    - 21557
+  label: 不可口是心非
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-73
+    span:
+    - body
+    - 21714
+    - 21714
+  label: 翦礙道之荊榛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-74
+    span:
+    - body
+    - 21882
+    - 21882
+  label: 除當途之瓦石
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-75
+    span:
+    - body
+    - 22081
+    - 22081
+  label: 脩數百年崎嶇之路
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-76
+    span:
+    - body
+    - 22295
+    - 22295
+  label: 造千萬人來往之槗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-77
+    span:
+    - body
+    - 22580
+    - 22580
+  label: 垂訓以格人非
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-78
+    span:
+    - body
+    - 22723
+    - 22723
+  label: 捐貲以成人美
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-79
+    span:
+    - body
+    - 23091
+    - 23091
+  label: 作事湏循天理
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-80
+    span:
+    - body
+    - 23526
+    - 23526
+  label: 出言要順人心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-81
+    span:
+    - body
+    - 23729
+    - 23729
+  label: 見先哲於羹𡓜
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-82
+    span:
+    - body
+    - 23897
+    - 23897
+  label: 慎獨知於衾影
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-83
+    span:
+    - body
+    - 23983
+    - 23983
+  label: 諸惡莫作眾善奉行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-84
+    span:
+    - body
+    - 24165
+    - 24165
+  label: 永無惡曜加臨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-85
+    span:
+    - body
+    - 24636
+    - 24636
+  label: 常有吉神擁護
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-86
+    span:
+    - body
+    - 24956
+    - 24956
+  label: 近報則在自己
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-87
+    span:
+    - body
+    - 25279
+    - 25279
+  label: 遠報則在兒孫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-88
+    span:
+    - body
+    - 25621
+    - 25621
+  label: 百福駢臻千祥雲集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0426_B_001-mulu-89
+    span:
+    - body
+    - 25750
+    - 25750
+  label: 豈不從隂隲中得來者㢤
+  type: mulu
+  level: 1
+hash: sha256:c4eac9bb90fe29f9d6b633b752d836a9e93d6c47ada86e9b9a7933294c5e5a57
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
