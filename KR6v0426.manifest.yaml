@@ -18,9 +18,9 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 1, filename: KR6v0426_001.yaml, hash: 'sha256:783189c7ae606747f24236152a185d92aa8e43fb674a5910e01faeadfc6ee8ad'}
+  - {seq: 1, filename: KR6v0426_001.yaml, hash: 'sha256:3d5b595220d2e8c6a3ed611089fcfcc54c71cd187f0e32b2b7a9a5c5189cb1da'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0426_001.markers.yaml, hash: 'sha256:9fdcd8f3fcc4260f9dffd4a2cec0ed00decd7ed9c45640683e257bfeaa9260c4'}
+  - {seq: 1, role: markers, filename: assets/KR6v0426_001.markers.yaml, hash: 'sha256:ca8b31a361a7d86b8c619fc5bbe216b87664d635ee8a202619f4a69f27040f81'}
 table_of_contents:
 - ref:
     seq: 1
@@ -922,7 +922,4 @@ table_of_contents:
   label: 豈不從隂隲中得來者㢤
   type: mulu
   level: 1
-hash: sha256:c4eac9bb90fe29f9d6b633b752d836a9e93d6c47ada86e9b9a7933294c5e5a57
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:eaf8c4b5425df349641a51e6d536b78609394cf59663d81e411006963aad53a3
